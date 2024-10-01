@@ -51,7 +51,6 @@ protobuf==4.25.5
 pyarrow==17.0.0
 pydeck==0.9.1
 Pygments==2.18.0
-pyparsing
 python
 pytz==2024.2
 referencing==0.35.1
